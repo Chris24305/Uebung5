@@ -21,6 +21,6 @@ public class H2_main {
 		for (int i=0; i<=8; i++) {
 			System.out.println(a[i]);
 		}
-		System.out.println("Amount of digits: "+digits);
+		System.out.println(digits); 
 	}
 }
